@@ -30,7 +30,7 @@ Python, TensorFlow, PyTorch, OpenCV, scikit-learn
 HTML, CSS, JavaScript, React,  
 
 **Tools**  
-Git, Firebase, VS Code
+Git, GitHub, Firebase, VS Code
 
 ---
 
