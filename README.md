@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Rana
 
-<!--
-**rana2280/rana2280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Learning Frontend Development
 
-Here are some ideas to get you started:
+I work on **AI-driven systems** involving computer vision, machine learning and deep learning.  
+Right now, I’m learning **frontend development** to build full AI-powered applications from end to end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- Build and train **machine learning** and **deep learning** models  
+- Develop **AI-based mobile and web applications**  
+- Work with **Python, TensorFlow, PyTorch, and OpenCV**  
+- Explore **React and modern web tools**
+
+---
+
+## 🎯 Current Focus
+- Mastering **React and frontend design principles**  
+- Integrating **AI models into web interfaces**  
+- Building personal projects combining AI + frontend  
+
+---
+
+## 🧠 Tech Stack
+**AI & Data**  
+Python, TensorFlow, PyTorch, OpenCV, scikit-learn  
+
+**Frontend**  
+HTML, CSS, JavaScript, React,  
+
+**Tools**  
+Git, Firebase, VS Code
+
+---
+
+## 📫 Connect With Me
+[LinkedIn](https://linkedin.com/in/ranaelzeiny)  
+[GitHub](https://github.com/rana2280)  
+[Email](mailto:ranaelzeiny3@gmail.com)
+
