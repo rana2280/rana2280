@@ -35,7 +35,7 @@ Git, GitHub, Firebase, VS Code
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](https://linkedin.com/in/rana-elzeiny)  
+[LinkedIn](https://linkedin.com/in/rana-elzeiny-a48218279)  
 [GitHub](https://github.com/rana2280)  
 [Email](mailto:ranaelzeiny3@gmail.com)
 
